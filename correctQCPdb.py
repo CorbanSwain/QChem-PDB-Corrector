@@ -163,6 +163,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-movemap = MoveMap()
-movemap.set_bb(12,True)
